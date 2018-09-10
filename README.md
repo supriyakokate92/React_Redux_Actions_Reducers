@@ -1,6 +1,6 @@
-# ReduxSimpleStarter
+# React_Redux_Actions_Reducers
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+This repo helps to get an understanding of Action and Reducers concept
 
 ### Getting Started
 
